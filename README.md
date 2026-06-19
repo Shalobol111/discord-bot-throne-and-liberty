@@ -1,9 +1,1 @@
 # discord-bot-throne-and-liberty
-
-ENV
-DISCORD_TOKEN=your_discord_bot_token_here
-GUILD_ID=your_guild_id_here
-DKP_LOG_CHANNEL_ID=your_log_channel_id_here
-OFFICER_ROLE_IDS=123456789,987654321
-DATABASE_URL=sqlite+aiosqlite:///dkp.db
-DKP_DECAY_PERCENT=5
