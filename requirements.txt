@@ -1,0 +1,8 @@
+discord.py>=2.4,<3.0
+SQLAlchemy[asyncio]>=2.0
+aiosqlite
+alembic
+pydantic>=2.0
+pydantic-settings
+python-dotenv
+openpyxl>=3.1
